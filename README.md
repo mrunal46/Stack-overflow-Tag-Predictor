@@ -34,7 +34,6 @@ to math and programming. The number of questions from each site may vary, and no
 been performed on the questions (such as closed questions).
 Data Field Explaination
 Dataset contains 6,034,195 rows. The columns in the table are:
-## 2.1.2 Example Data point
 # 2.2 Mapping the real-world problem to a Machine Learning Problem
 ## 2.2.1 Type of Machine Learning Problem
 It is a multi-label classification problem Multi-label Classification: Multilabel classification as-
